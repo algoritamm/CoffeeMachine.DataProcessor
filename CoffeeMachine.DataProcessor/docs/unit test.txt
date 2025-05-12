@@ -1,0 +1,35 @@
+MyApp.sln
+|-- MyApp.Web          (MVC projekat)
+|-- MyApp.Services     (servisi, poslovna logika)
+|-- MyApp.Data         (data access sloj)
+|-- MyApp.Tests        (xUnit test projekat)
+
+1.	Desni klik na solution u Visual Studio → Add → New Project
+
+2.	Izaberi xUnit Test Project
+
+3.	(Opcionalno) Dodaj potrebne NuGet pakete ako nije već:
+- xunit
+- xunit.runner.visualstudio
+- Microsoft.NET.Test.Sdk
+
+4.	Dodaj referencu na tvoj MVC projekat:
+Desni klik na Dependencies unutar MyApp.Tests → Add Project Reference
+Očekivano: čekiraš tvoj MVC projekat zove čije ponašanje testiraš
+
+5.	Test metode moraju imati [Fact]
+
+6.	"Pravi unit testovi" proveravaju ponašanje "poslovne" logike naše aplikacije, najčešće su to delovi aplikacije, odnosno Services.
+
+7.	Testovi moraju da budu sažeti, kratki i koncizni, testiraju konkretno ponašanje za konkretne podatke.
+
+8.	Testovi su odvojeni po odvojenim klasama unutar kojih su metode nazvane po nepisanom pravilu Klasa_Metoda_OcekiivanoPonasanje koju testiramo.
+
+
+9.	Testove pokrećemo tako što pokrenemo celu klasu odjednom ili metodu po metodu unutar Test Explorer prozora.
+
+10.	View -> Test Exolorer, otvaramo prozor za pokretanje testova
+
+11.	Evaluate behavior using Assert.
+
+12.	Svaki test mora sadrzati tri dela: Arrange, Act i Assert.

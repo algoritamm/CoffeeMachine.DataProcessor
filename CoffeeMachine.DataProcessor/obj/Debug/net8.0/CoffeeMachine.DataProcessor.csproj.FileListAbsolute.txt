@@ -1,0 +1,14 @@
+C:\Users\mjerinic\Desktop\Jana\CoffeeMachine.DataProcessor\CoffeeMachine.DataProcessor\bin\Debug\net8.0\CoffeeMachine.DataProcessor.exe
+C:\Users\mjerinic\Desktop\Jana\CoffeeMachine.DataProcessor\CoffeeMachine.DataProcessor\bin\Debug\net8.0\CoffeeMachine.DataProcessor.deps.json
+C:\Users\mjerinic\Desktop\Jana\CoffeeMachine.DataProcessor\CoffeeMachine.DataProcessor\bin\Debug\net8.0\CoffeeMachine.DataProcessor.runtimeconfig.json
+C:\Users\mjerinic\Desktop\Jana\CoffeeMachine.DataProcessor\CoffeeMachine.DataProcessor\bin\Debug\net8.0\CoffeeMachine.DataProcessor.dll
+C:\Users\mjerinic\Desktop\Jana\CoffeeMachine.DataProcessor\CoffeeMachine.DataProcessor\bin\Debug\net8.0\CoffeeMachine.DataProcessor.pdb
+C:\Users\mjerinic\Desktop\Jana\CoffeeMachine.DataProcessor\CoffeeMachine.DataProcessor\obj\Debug\net8.0\CoffeeMachine.DataProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjerinic\Desktop\Jana\CoffeeMachine.DataProcessor\CoffeeMachine.DataProcessor\obj\Debug\net8.0\CoffeeMachine.DataProcessor.AssemblyInfoInputs.cache
+C:\Users\mjerinic\Desktop\Jana\CoffeeMachine.DataProcessor\CoffeeMachine.DataProcessor\obj\Debug\net8.0\CoffeeMachine.DataProcessor.AssemblyInfo.cs
+C:\Users\mjerinic\Desktop\Jana\CoffeeMachine.DataProcessor\CoffeeMachine.DataProcessor\obj\Debug\net8.0\CoffeeMachine.DataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\mjerinic\Desktop\Jana\CoffeeMachine.DataProcessor\CoffeeMachine.DataProcessor\obj\Debug\net8.0\CoffeeMachine.DataProcessor.dll
+C:\Users\mjerinic\Desktop\Jana\CoffeeMachine.DataProcessor\CoffeeMachine.DataProcessor\obj\Debug\net8.0\refint\CoffeeMachine.DataProcessor.dll
+C:\Users\mjerinic\Desktop\Jana\CoffeeMachine.DataProcessor\CoffeeMachine.DataProcessor\obj\Debug\net8.0\CoffeeMachine.DataProcessor.pdb
+C:\Users\mjerinic\Desktop\Jana\CoffeeMachine.DataProcessor\CoffeeMachine.DataProcessor\obj\Debug\net8.0\CoffeeMachine.DataProcessor.genruntimeconfig.cache
+C:\Users\mjerinic\Desktop\Jana\CoffeeMachine.DataProcessor\CoffeeMachine.DataProcessor\obj\Debug\net8.0\ref\CoffeeMachine.DataProcessor.dll
